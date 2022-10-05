@@ -15,4 +15,6 @@ Sobre arquivo "desafioIntmed.rar":
     - Cypress versão 9.7.0.
   - As ENTRADAS descritas no arquivo "desafioQA.js" são as mesmas contidas no arquivo "Desafio QA.pdf";
 
-Obs: Como adiantei na entrevista o Cypress é algo novo, então foi de fato um desafio, e creio que poderia ter melhorado em alguns pontos, mas espero que tenha chegado no objetivo do desafio e possa estar adentrando pra continuar esse processo de apredizagem e desenvolvimento.
+Obs: Como adiantei na entrevista o Cypress é algo novo, então foi de fato um desafio, e creio que poderia ter melhorado em alguns pontos, mas espero que tenha chegado no objetivo do desafio e possa estar adentrando pra continuar esse processo de apredizagem e desenvolvimento. 
+
+Obs2: Sei que provalvemente faltam algumas informações na descrição deste arquivo para auxiliar na execução, mas estou em final de sprint e também finalizando meu TCC, mais não queria deixar de enviar o desafio.
