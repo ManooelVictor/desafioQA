@@ -1,12 +1,12 @@
 # desafioQA
 Repositório para o desafio de QA da Intmed.
 
-No arquivo "Desafio QA.pdf" possui:
-  - Os dez casos de testes descritos;
-  - As ENTRADAS que no arquivo são referentes a "Dados de testes";
-  - As SAÍDAS são os resultados dos passos das execuções;
+Sobre arquivo "Desafio QA.pdf":
+  - Escrita dos dez casos de testes;
+  - As ENTRADAS dos testes, descritas como "Dados de testes";
+  - As SAÍDAS são os resultados dos passos das execuções dos casos de teste;
 
-No arquivo (desafioIntmed.rar) possui:
+Sobre arquivo "desafioIntmed.rar":
   - O arquivo deve ser descompactado na máquina no diretório C;
   - No arquivo "desafioQA.js" todas as ENTRADAS já estão descritas no código basta apenas EXECUTAR;
   - Foi utilizado o Visual Studio Code como editor de código-fonte para manipulação dos dados;
